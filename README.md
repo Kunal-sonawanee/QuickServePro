@@ -1,36 +1,38 @@
 ```markdown
-# 🚀 QuickServePro
+## 🧠 About QuickServePro
 
-QuickServePro is a startup-driven **Service and Portfolio Web Platform** designed to showcase our IT-based services, completed projects, expertise, team, and mission.  
-The platform enables potential clients to explore our offerings and connect with us for professional services.
+QuickServePro is a **Service and Portfolio Web Platform** to showcase our company’s IT offerings, completed projects, team, and mission.  
+Clients can explore our services and reach out for collaboration or project work.
 
----
+### 👨‍💻 Founders  
 
-## 🧠 About the Startup
-
-QuickServePro is founded by two enthusiastic final-semester students with a passion for building impactful digital solutions. Our mission is to deliver modern, scalable, and efficient IT services to individuals and businesses.
-
-### ✅ What We Offer
-- **Web & App Development**
-- **Enterprise Software Solutions**
-- **Cloud Computing & Deployment**
-- **Agentic AI Services (AI Automation & AI Agents)**
-- **Technical Training & Workshops**
-- **Consultation for Digital Transformation**
+| Name | Role | Email |
+|------|------|--------|
+| **Kunal Sonawane** | Co-Founder & Full-Stack Developer | 📧 sonawanekunal289@gmail.com |
+| **Khushal Patil** | Co-Founder & Full-Stack Developer | 📧 khushalpatil183@gmail.com |
 
 ---
 
-## 🏗️ Project Overview
+## ✅ What Services We Offer
+
+- 🌐 **Web & Mobile App Development**
+- ☁️ **Cloud Computing & Deployment**
+- 🤖 **Agentic AI Services (AI Automation & AI Agents)**
+- 🏢 **Enterprise Software Solutions**
+- 🎯 **Technical Training (Workshops, Bootcamps, Custom Training)**
+- 💼 **IT Consulting & Digital Transformation**
+
+---
+
+## 🏗️ Technology Stack
 
 | Component     | Technology / Details      |
 |---------------|---------------------------|
-| Frontend      | React.js                  |
-| Backend       | Java Spring Boot          |
+| Frontend      | React.js (SPA Architecture) |
+| Backend       | Java Spring Boot (REST APIs) |
 | Database      | Planned: MySQL / PostgreSQL / MongoDB |
 | Deployment    | AWS / Azure / GCP (Planned) |
 | Version Control | Git + GitHub            |
-
-> ✨ This repository currently marks the **first commit** — initial project setup before full development starts.
 
 ---
 
@@ -46,30 +48,28 @@ QuickServePro is founded by two enthusiastic final-semester students with a pass
 
 ````
 
-> Structure may evolve as features are added.
+---
+
+## 🌟 Key Features (Planned)
+
+- Professional portfolio website
+- Showcase services & completed projects
+- Contact / Inquiry form integrated with backend
+- Admin dashboard (project & service management)
+- Authentication system (User & Admin roles)
+- Cloud deployment pipeline (CI/CD)
 
 ---
 
-## 🌟 Planned Features
+## 🛠️ Getting Started (After development begins)
 
-- 🖥️ Portfolio Landing Page  
-- 🛠️ Services page with contact/inquiry form  
-- 👤 Admin dashboard to manage projects & services  
-- 🔐 Authentication (User & Admin)  
-- 🔗 Integrated APIs (Frontend ↔ Backend communication)  
-- ☁️ Cloud deployment, CI/CD pipeline integration  
-
----
-
-## 🛠️ Getting Started (Once development begins)
-
-### 1. Clone the Repository
+### Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/QuickServePro.git
+git clone https://github.com/Kunal-sonawanee/QuickServePro.git
 cd QuickServePro
 ````
 
-### 2. Setup Frontend (React)
+### Start Frontend (React)
 
 ```bash
 cd frontend
@@ -77,7 +77,7 @@ npm install
 npm start
 ```
 
-### 3. Setup Backend (Spring Boot)
+### Start Backend (Spring Boot)
 
 ```bash
 cd backend
@@ -86,49 +86,42 @@ cd backend
 
 ---
 
-## 📌 Milestones
+## 📌 Project Milestones
 
-| Phase                                        | Description                         | Status    |
-| -------------------------------------------- | ----------------------------------- | --------- |
-| ✅ Initial Commit (Repository Setup + README) | Foundation created                  | Completed |
-| ⏳ Frontend UI Development                    | React components, routing, pages    | Pending   |
-| ⏳ Backend Development                        | Spring Boot API endpoints, database | Pending   |
-| ⏳ Deployment                                 | Cloud hosting                       | Pending   |
+| Phase                       | Description         | Status    |
+| --------------------------- | ------------------- | --------- |
+| ✅ Repository Setup + README | Project Initialized | Completed |
+| ⏳ UI/Frontend Development   | Using React         | Pending   |
+| ⏳ Backend + Database        | Spring Boot + DB    | Pending   |
+| ⏳ Deployment & Launch       | Cloud hosting       | Pending   |
 
 ---
 
-## 🤝 Contribution
+## 🤝 Contributing
 
-We welcome contributions, suggestions, or feedback.
-Feel free to:
+We welcome contributions from the community!
 
-* Open issues
-* Create pull requests
-* Share feature ideas
+1. Fork the project
+2. Create a feature branch: `git checkout -b feature-name`
+3. Commit your changes: `git commit -m "Added new feature"`
+4. Push to branch: `git push origin feature-name`
+5. Create a Pull Request
 
 ---
 
 ## 📧 Contact
 
-For business or project inquiries:
+📮 **Business Email:**
 
-📮 **Email:** *[your-email@domain.com](mailto:your-email@domain.com)*
-🌐 **Website (Coming Soon):** *[https://quickservepro.com/](https://quickservepro.com/)*
+* Kunal Sonawane — *[sonawanekunal289@gmail.com](mailto:sonawanekunal289@gmail.com)*
+* Khushal Patil — *[khushalpatil183@gmail.com](mailto:khushalpatil183@gmail.com)*
+
+🌐 **Website (Coming Soon):** [https://quickservepro.com/](https://quickservepro.com/)
 
 ---
 
-### ⚡ Made with passion & purpose ♥
+### ⚡ Built with passion & purpose ♥
 
 **QuickServePro — Empowering Digital Transformation**
 
-```
-
----
-
-If you'd like, I can also:
-- Add logo/banner design
-- Add badges (build status, license, etc.)
-- Add detailed contribution guidelines
-
-Just say **"Add branding + badges"** or **"Add contribution docs"**.
 ```
